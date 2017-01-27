@@ -1,1 +1,2 @@
 # Pumpkin-Walk-String-Match
+This program is designed to find how many pumpkins (if any) from Sebastian's list of pumpkins appear in the actual pumpkin walk. The number of pumpkins that match is calculated using a graph structure. The answer is then translated into a verbal response using a seperate method (getAnswer). This code executes and prints out hard coded input within the main method. An exception is thrown if either Sebasian's list or the pumpkin walk list are empty.
